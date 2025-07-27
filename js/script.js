@@ -8,7 +8,7 @@ const global = {
     totalResults: 0,
   },
   api: {
-    apiKey: '049f9ed7cb77313396e464a5e75d9caa',
+    apiKey: '', // Insert your TMDB API key here
     apiUrl: 'https://api.themoviedb.org/3/',
   },
 };
